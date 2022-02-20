@@ -84,7 +84,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<repository>jcorderop/${project.name}</repository>
+					<repository>in28min/${project.name}</repository>
 					<tag>${project.version}</tag>
 					<skipDockerInfo>true</skipDockerInfo>
 				</configuration>
